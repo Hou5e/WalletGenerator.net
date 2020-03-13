@@ -1,5 +1,6 @@
-**** LOOKING FOR THE ZIP FILE TO DOWNLOAD ? ***********************************
-It's here: https://github.com/MichaelMure/WalletGenerator.net/archive/master.zip
+This code should not be run from a webserver. Running the code locally on your PC sounds like it's OK, but use it at your own risk:
+Possible webserver vulnerability: https://medium.com/mycrypto/disclosure-key-generation-vulnerability-found-on-walletgenerator-net-potentially-malicious-3d8936485961
+From: https://github.com/MichaelMure/WalletGenerator.net
 *******************************************************************************
 
 WalletGenerator.net
